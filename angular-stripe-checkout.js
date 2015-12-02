@@ -14,7 +14,8 @@ var COPIED_OPTION_ATTRIBUTES = {
   panelLabel:  "data-panel-label",
   zipCode:     "data-zip-code",
   email:       "data-email",
-  label:       "data-label"
+  label:       "data-label",
+  locale:      "data-locale"
 };
 
 var BOOLEAN_OPTION_ATTRIBUTES = {
